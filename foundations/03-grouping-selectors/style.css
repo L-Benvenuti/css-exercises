@@ -1,0 +1,14 @@
+.first-here,
+.second-here{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman" sans-serif;
+}
+
+.first-here{
+    background-color: black;
+    color: white;
+}
+
+.second-here{
+    background-color: yellow;
+}
