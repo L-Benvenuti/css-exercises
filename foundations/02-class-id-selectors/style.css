@@ -1,0 +1,19 @@
+.most{
+    background-color: rgba(255, 61, 61, 0.686);
+    color: rgb(0, 0, 0);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.unique {
+    font-size: 24px;
+}
+
+#bb {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#green {
+    background-color: rgba(0, 255, 0, 0.686);
+    font-weight: bold;
+}
